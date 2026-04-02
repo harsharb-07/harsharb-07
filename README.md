@@ -4,8 +4,8 @@
 
 > Building scalable projects, exploring AI systems, and learning by shipping real-world applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-linkedin-link)
-[![Email](https://img.shields.io/badge/Email-your-email-red?style=flat-square)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([your-linkedin-link](https://www.linkedin.com/in/r-b-harsha-vardhan-b757812b2/))
+[![Email](https://img.shields.io/badge/Email-your-email-red?style=flat-square)](mailto:harsharb07@gmail.com)
 
 ---
 
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `Java` `C++` `JavaScript`
+`Python` `Java` `JavaScript` `Typescript`
 
 **Frontend**  
 `HTML` `CSS` `React` `Tailwind CSS`
@@ -74,8 +74,8 @@ Your DevOps + MLOps based project
 
 ## 📫 Connect with me
 
-- LinkedIn: your-linkedin-link  
-- Email: your-email@gmail.com  
+- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/r-b-harsha-vardhan-b757812b2/)  
+- Email: harsharb07@gmail.com   
 
 ---
 
