@@ -16,7 +16,7 @@
 *   🌱 I’m currently learning **Advanced System Architecture & Cloud Native Technologies**
 *   👯 I’m looking to collaborate on **Open Source Projects & Innovative AI Tools**
 *   💬 Ask me about **Python, React, Next.js, and Machine Learning**
-*   📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+*   📫 How to reach me: **[your.email@example.com](mailto:harsharb07@gmail.com)**
 *   ⚡ Fun fact: *I love turning complex problems into elegant solutions!*
 
 ---
