@@ -42,7 +42,9 @@
   <br/><br/>
   
   <h4>AI, Machine Learning & Data Science</h4>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy" alt="AI ML Icons" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI ML Icons" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="50" height="50" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="50" height="50" alt="NumPy" />
   <br/><br/>
 
   <h4>Databases & ORMs</h4>
