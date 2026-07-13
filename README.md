@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 *   🔭 I’m currently working on **AI/ML and Full-Stack Projects**
 *   🌱 I’m currently learning **Advanced System Architecture & Cloud Native Technologies**
@@ -42,7 +42,7 @@
   <br/><br/>
   
   <h4>AI, Machine Learning & Data Science</h4>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI ML Icons" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy" alt="AI ML Icons" />
   <br/><br/>
 
   <h4>Databases & ORMs</h4>
