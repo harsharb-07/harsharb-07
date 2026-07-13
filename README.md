@@ -58,6 +58,67 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h3>🤖 PulsePredict: AI Chatbot</h3>
+          <p>An AI-powered chatbot designed to predict user risk for heart diseases and provide interactive precautionary guidance and health advice.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+            <img src="https://img.shields.io/badge/NLP-blue?style=flat-square" alt="NLP" />
+          </p>
+          <a href="https://github.com/harsharb-07/PulsePredict-Using-AI-Chatbot"><b>View Repository →</b></a>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h3>📱 PhonePe App Clone</h3>
+          <p>A full-stack fintech web application cloning the core digital payments and secure UPI wallet experience of PhonePe.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+            <img src="https://img.shields.io/badge/Fintech-green?style=flat-square" alt="Fintech" />
+          </p>
+          <a href="https://github.com/harsharb-07/phonepe-app"><b>View Repository →</b></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h3>🛒 E-Commerce Recommendation Engine</h3>
+          <p>AI engine that suggests items from top sites (Amazon, Myntra, Flipkart) based on user budget and preference metrics using collaborative filtering.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+            <img src="https://img.shields.io/badge/Collaborative_Filtering-orange?style=flat-square" alt="CF" />
+          </p>
+          <a href="https://github.com/harsharb-07/Recom-Engine-"><b>View Repository →</b></a>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h3>🚗 Road Sense AI</h3>
+          <p>An intelligent system designed for road safety and traffic analysis, utilizing computer vision to detect potholes, cracks, and road condition anomalies.</p>
+          <p>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+            <img src="https://img.shields.io/badge/Computer_Vision-blueviolet?style=flat-square" alt="CV" />
+          </p>
+          <a href="https://github.com/harsharb-07/Road-Sense-Application-using-AI"><b>View Repository →</b></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -86,7 +147,7 @@
   <a href="https://www.linkedin.com/in/r-b-harsha-vardhan-b757812b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-harsharb.vercel.app/">
+  <a href="https://www.harsharb.me/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </div>
