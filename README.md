@@ -1,4 +1,3 @@
-
 <!-- Header with Waving Animation and Gradient -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Harsha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55" alt="Header Banner" width="100%" />
@@ -137,9 +136,7 @@
 ### 🏆 Activity Graph
 
 <div align="center">
-  <a href="https://github.com/harsharb-07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsharb-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&v=2" alt="Harsha's GitHub activity graph" width="100%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsharb-07&theme=tokyonight" alt="Harsha's GitHub activity graph" width="100%" />
 </div>
 
 ---
