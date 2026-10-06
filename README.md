@@ -1,3 +1,4 @@
+
 <!-- Header with Waving Animation and Gradient -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Harsha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55" alt="Header Banner" width="100%" />
@@ -19,14 +20,14 @@
 
 ---
 
-### 👨💻 About Me
+### 👨‍💻 About Me
 
-*   🔭 I’m currently working on **AI/ML and Full-Stack Projects**
-*   🌱 I’m currently learning **Advanced System Architecture & Cloud Native Technologies**
-*   👯 I’m looking to collaborate on **Open Source Projects & Innovative AI Tools**
-*   💬 Ask me about **Python, React, Next.js, and Machine Learning**
-*   📫 How to reach me: **[harsharb07@gmail.com](mailto:harsharb07@gmail.com)**
-*   ⚡ Fun fact: *I love turning complex problems into elegant solutions!*
+* 🔭 I’m currently working on **AI/ML and Full-Stack Projects**
+* 🌱 I’m currently learning **Advanced System Architecture & Cloud Native Technologies**
+* 👯 I’m looking to collaborate on **Open Source Projects & Innovative AI Tools**
+* 💬 Ask me about **Python, React, Next.js, and Machine Learning**
+* 📫 How to reach me: **[harsharb07@gmail.com](mailto:harsharb07@gmail.com)**
+* ⚡ Fun fact: *I love turning complex problems into elegant solutions!*
 
 ---
 
@@ -36,11 +37,11 @@
   <h4>Frontend & UI</h4>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap" alt="Frontend" />
   <br/><br/>
-  
+
   <h4>Backend & APIs</h4>
   <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs,express,fastapi,flask,postman" alt="Backend" />
   <br/><br/>
-  
+
   <h4>AI, Machine Learning & Data Science</h4>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI ML Icons" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="50" height="50" alt="Pandas" />
@@ -50,7 +51,7 @@
   <h4>Databases & ORMs</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
   <br/><br/>
-  
+
   <h4>DevOps, Cloud & Tools</h4>
   <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vscode,linux" alt="DevOps and Tools" />
   <br/><br/>
@@ -92,7 +93,7 @@
       <td width="50%" valign="top">
         <div align="left">
           <h3>🛒 E-Commerce Recommendation Engine</h3>
-          <p>AI engine that suggests items from top sites (Amazon, Myntra, Flipkart) based on user budget and preference metrics using collaborative filtering.</p>
+          <p>AI engine that suggests items from top sites Amazon, Myntra, and Flipkart based on user budget and preference metrics using collaborative filtering.</p>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
             <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -136,7 +137,9 @@
 ### 🏆 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsharb-07&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  <a href="https://github.com/harsharb-07">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsharb-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&v=2" alt="Harsha's GitHub activity graph" width="100%" />
+  </a>
 </div>
 
 ---
@@ -152,7 +155,7 @@
   </a>
 </div>
 
-<!-- Footer image (optional) -->
+<!-- Footer image -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
