@@ -130,15 +130,6 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsharb-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
   </p>
 </div>
-
----
-
-### 🏆 Activity Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsharb-07&theme=tokyonight" alt="Harsha's GitHub activity graph" width="100%" />
-</div>
-
 ---
 
 ### 🤝 Let's Connect
